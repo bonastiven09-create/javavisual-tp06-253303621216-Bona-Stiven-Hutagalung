@@ -3,7 +3,7 @@ Character Manager adalah aplikasi konsol sederhana untuk membuat dan mengelola k
 
 ## Output Terminal
 
-![Output terminal]! [alt text] (https://github.com/bonastiven09-create/javavisual-tp06-253303621216-Bona-Stiven-Hutagalung/blob/main/Screenshot%202026-10-16%20173925.png?raw=true)
+![Output terminal] ![alt text](https://github.com/bonastiven09-create/javavisual-tp06-253303621216-Bona-Stiven-Hutagalung/blob/main/Screenshot%202026-10-16%20173925.png?raw=true)
 
 ## Struktur Folder
 
